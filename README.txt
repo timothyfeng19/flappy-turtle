@@ -1,0 +1,1 @@
+This is Flappy Bird with Python turtle. First clone this repository then execute python flappy-turtle.py.
